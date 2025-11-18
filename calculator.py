@@ -1,5 +1,4 @@
 # https://github.com/calebmammen1/lab11-CM.git
-# https://github.com/calebmammen1/lab11-CM
 # Partner 1: Caleb Mammen
 # Partner 2: Caleb Mammen
 
